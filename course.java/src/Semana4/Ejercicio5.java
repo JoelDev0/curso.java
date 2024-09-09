@@ -10,6 +10,6 @@ cuadro:
 | < 13 y >= 0   | Deficiente |
 nota: desarrolle dosversiones de este caso,
 unoaplicando solamente operadorternario y otro
- aplicandopattern matching con switch.*/
+ aplicandopattern matching con switch. b*/
 public class Ejercicio5 {
 }
