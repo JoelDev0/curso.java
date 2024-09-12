@@ -7,4 +7,5 @@ Condiciones:
 • Deben utilizarse todos los tipos de datos primitivos.
 • Hacer uso de los métodos toUpperCase() y toLowerCase() de la clase String.*/
 public class Ejercicio5 {
+    
 }
