@@ -26,7 +26,7 @@ public class BoletadePago {
             System.out.println("4. Salir");
             System.out.print("Seleccione una opción:");
             int opcion = scanner.nextInt();
-            scanner.nextLine();  // Limpiar el buffer
+            scanner.nextLine();  // Limpiar el buffer.
 
             switch (opcion) {
                 case 1:
